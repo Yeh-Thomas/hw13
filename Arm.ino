@@ -11,19 +11,6 @@ decode_results results;
 
 int degree = 10 ;
 
-//void pose1() {
-//  // start position (home button)
-//
-//  servo1.write(135);
-//  servo2.write(45);
-//}
-//void pick() {
-//  // pick up  (ok button)
-//  servo1.write(90);
-//  servo2.write(90);
-//}
-
-
 void setup() {
   // put your setup code here, to run once:
 
